@@ -22,5 +22,5 @@ Click the "Search" button to fetch weather data for the entered city.
 Alternatively, click the "Use Current Location" button to get weather data based on your current location.
 
 
-![burgas](https://github.com/StefanDimitrov04/Weather-app/assets/115184100/07029b2f-35ac-42aa-80fa-1c14af3d0803)
+![burgas](https://github.com/StefanDimitrov04/6day-forecast-app/assets/115184100/3f6bc7f5-3b43-47d9-ab35-a3889ae635a7)
 ![asdas](https://github.com/StefanDimitrov04/Weather-app/assets/115184100/bf3cdfac-d179-4df8-9711-cac545fa899c)
